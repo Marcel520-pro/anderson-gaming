@@ -1,0 +1,21 @@
+[
+  { "id": "mortal-kombat-komplete-edition", "title": "Mortal Kombat Komplete Edition", "query": "Mortal Kombat Komplete Edition" },
+  { "id": "sniper-ghost-warrior", "title": "Sniper Ghost Warrior", "query": "Sniper: Ghost Warrior" },
+  { "id": "mafia-2", "title": "Mafia 2", "query": "Mafia II" },
+  { "id": "assassins-creed-liberation", "title": "Assassin's Creed Liberation", "query": "Assassin's Creed III: Liberation" },
+  { "id": "dragon-ball-xenoverse", "title": "Dragon Ball Xenoverse", "query": "Dragon Ball Xenoverse" },
+  { "id": "cod-black-ops-2", "title": "Call of Duty Black Ops 2", "query": "Call of Duty: Black Ops II" },
+  { "id": "nba-2k-playgrounds-2", "title": "NBA 2K Playgrounds 2", "query": "NBA 2K Playgrounds 2" },
+  { "id": "pes-2017", "title": "PES 2017", "query": "Pro Evolution Soccer 2017" },
+  { "id": "cod-black-ops", "title": "Call of Duty Black Ops", "query": "Call of Duty: Black Ops" },
+  { "id": "far-cry-3", "title": "Far Cry 3", "query": "Far Cry 3" },
+  { "id": "dark-souls", "title": "Dark Souls", "query": "Dark Souls: Prepare to Die Edition" },
+  { "id": "naruto-ninja-storm-2", "title": "Naruto Shippuden Ultimate Ninja Storm 2", "query": "Naruto Shippuden: Ultimate Ninja Storm 2" },
+  { "id": "amazing-spider-man-2", "title": "The Amazing Spider-Man 2", "query": "The Amazing Spider-Man 2" },
+  { "id": "batman-arkham", "title": "Batman Arkham", "query": "Batman: Arkham Asylum" },
+  { "id": "gta-3", "title": "Grand Theft Auto 3", "query": "Grand Theft Auto III" },
+  { "id": "the-walking-dead", "title": "The Walking Dead", "query": "The Walking Dead: Season One" },
+  { "id": "prince-of-persia-tfs", "title": "Prince of Persia TFS", "query": "Prince of Persia: The Forgotten Sands" },
+  { "id": "need-for-speed-rivals", "title": "Need for Speed Rivals", "query": "Need for Speed Rivals" },
+  { "id": "dragon-ball-fighterz", "title": "Dragon Ball FighterZ", "query": "Dragon Ball FighterZ" }
+]
